@@ -1,2 +1,1 @@
 # InsuranceFraudDetection
-Insurance Fraud Detection
